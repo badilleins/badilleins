@@ -3,19 +3,20 @@
  ![Badilleins](https://i.ibb.co/6sQXKtk/badilleins.png)
 
 
-# About this repository 
+# About this repository
 
-Hi mate, I'm Stalin Badillo I'm a software development and an eternal student .I put my works and experiments to your scope .Here you will find many projects and knowledges that are mine.You can look all the that you want.
+Hello friend, I am Stalin Badillo, I am a software developer and an eternal student. I put my works and experiments at your fingertips. Here you will find many projects and knowledge that are mine. You can search all you want.
 ___
-### What technologies I dominate?
-- **HTML** 
-- **CSS** 
-- **Git** 
-- **GitHub** 
+### What technologies do I master?
+- **HTML**
+- **CSS**
+- **Git**
+- **GitHub**
 - **SASS**
-- **Javascript** 
+- **Javascript**
 ___
 ### What will you find in this repository?
 
-You will find proyects about a lot of things that I made until now. I used concepts about animation, transitions, methodologies like *BEM*, and patterns like *layout shifter* otmobile first; Properties on CSS like *flex, grid* and much more. Also JavaScript code.
->Enjoy developping with me ❤️
+You will find projects on many things I have done so far. I used concepts about animation, transitions, methodologies like * BEM * and patterns like * layout shifter * mobile-first; Properties in CSS like * flex, grid *, JavaScript code and much more.
+> Enjoy developing with me ❤️
+ You can visit my portfolio click [here]()
