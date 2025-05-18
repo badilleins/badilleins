@@ -1,66 +1,188 @@
 
-<h1 align="center"><b>Oh, hi!👋</b></h1>
+<h1 align="center"><b>Oh, hi!</b></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FF00&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Stalin+Badillo..⭐;Self-taught+Front-End+Developer,;Software+engineering+Student,;Let's+learn+and+create+together..<3++"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FF00&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Stalin+Badillo..⭐;Self-taught+Full-Stack+Developer,;Software+engineering+Student,;Let's+learn+and+create+together..<3++"></a>
 </p>
 
-## About
-### Me
-- I am a fullstack developer and an eternal student.  
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+- I am a fullstack developer and an eternal student.
+  
+- Software engineering student at the Universidad Técnica de Ambato.
 
 - I learn and improve every day to become a great software engineer and gain more experience in many other technologies as time goes on.
 
-- My goal is to create technological innovation to solve problems and build the future of our dreams.
+- Student of platforms such as Platzi and Cisco
 
 - With my co-workers I try to do excellent teamwork and maintain beneficial social relationships.
 
-### The repositories
-Here you will find projects on many things I have done so far. I used concepts about animation, transitions, methodologies like BEM and patterns like: 
-* layout shifter 
-* mobile-first 
-* responsive design 
+- My goal is to create technological innovation to solve problems and build the future of our dreams.
 
-CSS layouts like 
-* flex.
-* grid 
-
-JavaScript, SCSS code and much more.
-
-Now, I put my works and experiments at your fingertips.
+  
 ___
-## You can:
-- Visit my [portfolio](https://badilleins.github.io/)
-- Connect with me on my [linkedIn](https://www.linkedin.com/in/stalinbadillo/).
-- Check my learnings on [platzi](https://platzi.com/p/Badilleins/)
-- See a piece of my life on [twitter](https://twitter.com/badilleins)
----
-## My projects
-- [My portfolio](https://github.com/badilleins/badilleins.github.io)
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> To know more about me
+<table align="center">
+  <tr>
+    <td align="center">
+      <p>Connect with me on</p>
+      <a href="https://www.linkedin.com/in/stalinbadillo/" target="blank">
+        <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+      </a>
+    </td>
+    <td align="center">
+      <p>See a piece of my life on</p>
+      <a href="https://twitter.com/badilleins" target="blank">
+        <img src="https://static.vecteezy.com/system/resources/previews/034/716/139/non_2x/x-new-twitter-logo-free-png.png" alt="X" height="50" width="50" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p>Visit my portfolio on</p>
+      <a href="https://badilleins.github.io/" target="blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/2572/2572742.png" alt="portfolio" height="50" width="50" />
+      </a>
+    </td>
+    <td align="center">
+      <p>Check my learnings on</p>
+      <a href="https://platzi.com/p/Badilleins/" target="blank">
+        <img src="https://static.platzi.com/media/blog/unnamed-8089fc33-6322-4bd3-85de-1da032257d4b.png" alt="platzi" height="50" width="50" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-My portfolio is a page  in wich I show you a piece of my life and of my projects.
+# Projects ⚙️
 
-- [BadiBlog](https://github.com/badilleins/BadiBlog)
+<!-- <h1 align="center">Projects</h1> -->
+<table bordercolor="#66b2b2">
 
-This is my blog, here I created one blog that I like a lot called Artificial Intelligence: the future is here.
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">Badiblog</h3>
 
-- [True tables calculator](https://github.com/badilleins/Calculadora-Tablas-de-verdad)
+<br />
+<img src="https://camo.githubusercontent.com/1be467a1e2f57943cd89559f3ab2613bcd1ba10b9c1c9358c9b237e115b88e08/68747470733a2f2f692e6962622e636f2f35466e3647644a2f652d686f6d652e706e67" width="100%" alt="Badiblog"/>
+<br />
 
-This page allows you to calculate a true table. This just need one two letters and one logical operator.
+<p align="center">
+  <a href="http://foodtrackr.me/BadiBlog/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=Website&message=BadiBlog&color=0db7ed&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+  </a>
 
-- [BatataBit](https://github.com/badilleins/Batatabit)
+  <a href="https://github.com/badilleins/BadiBlog" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=GitHub&message=Repo&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo Badge"/>
+  </a>
+</p>
 
-This is a fictituous app for a enterprise that offers services related to coins like bitcoin.
-- [Album](https://github.com/badilleins/Album)
+<p><strong>Javascript, CSS, & HTML</strong>This is my blog, here I created one blog that I like a lot called Artificial Intelligence: the future is here.</p>
 
-This page is thinking to put your best videos. Here I practiced a lot of CSS and HTML. I loved the beautiful result,above all, I liked my forms to sing-in and to register. 
+</td>
+<td width="50%" valign="top">
+<h3 align="center">True Tables Calculator</h3>
+<br />
+<a target="_blank" href="https://github.com/badilleins/Calculadora-Tablas-de-verdad">
+<img src="images/waveportal.jpg" width="100%"  alt="Wave Portal"/>
+</a>
+<br />
+<p align="center">
+<br>
+<a href="https://github.com/rahulkarda/Wave-Portal" target="_blank">
+<img src="[https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white](https://img.shields.io/static/v1?label=%7C&message=REPO&color=f&style=plastic&logo=github&logo-color=white)"/>
+</a>
+<a href="https://waveatrahul.netlify.app/" target="_blank">
+<img src="[https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white](https://img.shields.io/static/v1?label=%7C&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white)"/>
+</a>
+</p>
+<p><strong>Javascript, React, Sass & Solidity</strong> - True tables calculator :This page allows you to calculate a true table. This just need one two letters and one logical operator.
+</p>
+</td>
+</tr>
 
-- [CTT](https://github.com/badilleins/CTT)
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">Batatabit</h3>
+<br />
+<a target="_blank" href="[https://github.com/badilleins/Batatabit](https://github.com/badilleins/Batatabit)">
+<img src="images/portfolio.jpg" width="100%" alt="Portfolio"/>
+</a>
+<br />
+<p align="center">
+<br>
+<a href="https://github.com/rahulkarda/Portfolio" target="_blank">
+<img src="[https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white](https://img.shields.io/static/v1?label=%7C&message=REPO&color=f&style=plastic&logo=github&logo-color=white)"/>
+</a>
+<a href="[http://rahulkarda.netlify.app](http://rahulkarda.netlify.app/)" target="_blank">
+<img src="[https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white](https://img.shields.io/static/v1?label=%7C&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white)"/>
+</a>
+</p>
+<p><strong>HTML5, CSS3, & Javascript</strong> - Batatabit: This is a fictituous app for a enterprise that offers services related to coins like bitcoin.
+.</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">The Album</h3>
+<br />
+<a target="_blank" href="https://github.com/badilleins/Album">
+<img src="images/nasaapod.jpg" width="100%" alt="NASA Astronomy Picture of the Day"/>
+</a>
+<br />
+<p align="center">
+<br>
+<a href="https://github.com/rahulkarda/NASA-APOD" target="_blank">
+<img src="[https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white](https://img.shields.io/static/v1?label=%7C&message=REPO&color=f&style=plastic&logo=github&logo-color=white)"/>
+</a>
+<a href="[https://apodbyrahul.netlify.app](https://apodbyrahul.netlify.app/)" target="_blank">
+<img src="[https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white](https://img.shields.io/static/v1?label=%7C&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white)"/>
+</a>
+</p>
+<p><strong>HTML5, CSS3, Javascript & APIs</strong> - This album is thinking to put your best videos. Here I practiced a lot of CSS and HTML. I loved the beautiful result,above all, I liked my forms to sing-in and to register. 
+</p>
+</td>
+</tr>
 
-This page allows to the CTT(that is a University group) to offer their courses.  
-- [Trevis](https://github.com/badilleins/trevis)
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">CTT</h3>
+<br />
+<a target="_blank" href="[https://github.com/badilleins/CTT](https://github.com/badilleins/CTT)">
+<img src="images/webpostman.jpg" width="100%" alt="Web Postman"/>
+</a>
+<br />
+<p align="center">
+<br>
+<a href="https://github.com/rahulkarda/Web-Postman" target="_blank">
+<img src="[https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white](https://img.shields.io/static/v1?label=%7C&message=REPO&color=f&style=plastic&logo=github&logo-color=white)"/>
+</a>
+<a href="[http://webpostman.netlify.app](http://webpostman.netlify.app/)" target="_blank">
+<img src="[https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white](https://img.shields.io/static/v1?label=%7C&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white)"/>
+</a>
+</p>
+<p><strong>HTML5, CSS3, Javascript & PrismJs</strong> - This page allows to the CTT(that is a University group) to offer their courses.  
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">Trevis</h3>
+<br />
+<a target="_blank" href="https://github.com/badilleins/trevis">
+<img src="images/iptracker.jpg" width="100%" alt="IP Address Tracker"/>
+</a>
+<br />
+<p align="center">
+<br>
+<a href="https://github.com/rahulkarda/IP-Address-Tracker" target="_blank">
+<img src="[https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white](https://img.shields.io/static/v1?label=%7C&message=REPO&color=f&style=plastic&logo=github&logo-color=white)"/>
+</a>
+<a href="[https://trackmyip.netlify.app](https://trackmyip.netlify.app/)" target="_blank">
+<img src="[https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white](https://img.shields.io/static/v1?label=%7C&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white)"/>
+</a>
+</p>
+<p><strong>HTML5, CSS3, Javascript & APIs</strong> - I made this page for my mom, this page let you to calculate the price of a product.
+.</p>
+</td>
+</tr>
+</table>
 
-I made this page for my mom, this page let you to calculate the price of a product.
 
 
 
@@ -124,18 +246,13 @@ I made this page for my mom, this page let you to calculate the price of a produ
 
 
 
-## My stats
+## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
+<div align="center">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badilleins&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=badilleins&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
+</div>
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=badilleins&theme=algolia&background=0d1117&hide_border=true" />
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=badilleins&show_icons=true&theme=radical)
-
----
-## More about me
-- 🧑‍🎓 Estudiante de la Universidad Técnica de Ambato.
-
-- 👨‍🎓 Estudiante de Platzi
-
-- 🏡 Ambato, Ecuador 
-
-
-
-> Enjoy developing with me ❤️
+> Enjoy coding with me ❤️
