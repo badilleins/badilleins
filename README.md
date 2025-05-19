@@ -47,7 +47,8 @@ ___
     <td align="center">
       <p>Check my learnings on</p>
       <a href="https://platzi.com/p/Badilleins/" target="blank">
-        <img src="https://static.platzi.com/media/blog/unnamed-8089fc33-6322-4bd3-85de-1da032257d4b.png" alt="platzi" height="50" width="50" />
+        <img src="https://static.platzi.com/media/blog/unnamed-8089fc33-6322-4bd3-85de-1da032257d4b.png" alt="platzi"
+ height="50" width="50" />
       </a>
     </td>
   </tr>
@@ -55,32 +56,38 @@ ___
 
 # Projects ⚙️
 
-<!-- <h1 align="center">Projects</h1> -->
 <table bordercolor="#66b2b2">
 
 <tr>
-<td width="50%" valign="top">
-<h3 align="center">Badiblog</h3>
-
-<br />
-
-<a align="center" href="https://youtu.be/BchULQT_Um8" target="_blank">
-  <img src="https://img.youtube.com/vi/BchULQT_Um8/0.jpg" width="300" alt="Mira el video"/>
-</a>
-<br />
-
-
-<p align="center">
-  <a href="https://badilleins.github.io/BadiBlog/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=Website&message=BadiBlog&color=0db7ed&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
-  </a>
-
-  <a href="https://github.com/badilleins/BadiBlog" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=GitHub&message=Repo&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo Badge"/>
-  </a>
-</p>
-
-<p><strong>Javascript, CSS, & HTML</strong> - This is my blog, here I created one blog that I like a lot called Artificial Intelligence: the future is here.</p>
+  <td width="50%" valign="top" align="center">
+    <h3>Badiblog</h3>
+    <table>
+      <tr>
+        <td>
+          <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2IzNTI4M3I1bHZ2M3pkd21rbmk1Nzc0NjF4c2libTcxaXV3d2FkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cqj61hZOIXiwNc1hx0/giphy.gif" width="300"/>
+        </td>
+        <td align="center" valign="middle">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/><br/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/><br/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/>
+        </td>
+      </tr>
+    </table>
+    <div>
+      <a href="https://badilleins.github.io/BadiBlog/" target="_blank">
+        <img align="middle" src="https://img.shields.io/static/v1?label=Website&message=BadiBlog&color=0db7ed&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+      </a>
+      <a href="https://github.com/badilleins/BadiBlog" target="_blank">
+        <img align="middle" src="https://img.shields.io/static/v1?label=GitHub&message=Repo&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo Badge"/>
+      </a>
+    </div>
+    <br/>
+    <p align="center">
+      This is my blog. I created a post here that I love, called <strong>"Artificial Intelligence: The Future Is Already Here."</strong><br/>
+      I've also added my portfolio to the "About Me" section. There you can find my personal information, best projects, and contact options via social media, email, or WhatsApp.
+    </p>
+     <br/>
+  </td>
 
 </td>
 <td width="50%" valign="top">
