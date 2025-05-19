@@ -2,14 +2,16 @@
 <h1 align="center"><b>Oh, hi!</b></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FF00&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Stalin+Badillo..⭐;Self-taught+Full-Stack+Developer,;Software+engineering+Student,;Let's+learn+and+create+together..<3++"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FF00&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Stalin+Badillo..⭐;Self-taught+Full-Stack+Developer,;Software+Engineer+,;Let's+learn+and+create+together..<3++"></a>
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 - I am a fullstack developer and an eternal student.
+
+- I'm a Software Engineer.
   
-- Software engineering student at the Universidad Técnica de Ambato.
+- I studied at the Universidad Técnica de Ambato.
 
 - I learn and improve every day to become a great software engineer and gain more experience in many other technologies as time goes on.
 
