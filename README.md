@@ -63,11 +63,15 @@ ___
 <h3 align="center">Badiblog</h3>
 
 <br />
-<img src="https://camo.githubusercontent.com/1be467a1e2f57943cd89559f3ab2613bcd1ba10b9c1c9358c9b237e115b88e08/68747470733a2f2f692e6962622e636f2f35466e3647644a2f652d686f6d652e706e67" width="100%" alt="Badiblog"/>
+
+<a align="center" href="https://youtu.be/BchULQT_Um8" target="_blank">
+  <img src="https://img.youtube.com/vi/BchULQT_Um8/0.jpg" width="300" alt="Mira el video"/>
+</a>
 <br />
 
+
 <p align="center">
-  <a href="http://foodtrackr.me/BadiBlog/" target="_blank">
+  <a href="https://badilleins.github.io/BadiBlog/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=Website&message=BadiBlog&color=0db7ed&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
   </a>
 
@@ -76,111 +80,114 @@ ___
   </a>
 </p>
 
-<p><strong>Javascript, CSS, & HTML</strong>This is my blog, here I created one blog that I like a lot called Artificial Intelligence: the future is here.</p>
+<p><strong>Javascript, CSS, & HTML</strong> - This is my blog, here I created one blog that I like a lot called Artificial Intelligence: the future is here.</p>
 
 </td>
 <td width="50%" valign="top">
-<h3 align="center">True Tables Calculator</h3>
+<h3 align="center">Ecuabus  App</h3>
 <br />
 <a target="_blank" href="https://github.com/badilleins/Calculadora-Tablas-de-verdad">
 <img src="images/waveportal.jpg" width="100%"  alt="Wave Portal"/>
 </a>
 <br />
+
 <p align="center">
-<br>
-<a href="https://github.com/rahulkarda/Wave-Portal" target="_blank">
-<img src="[https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white](https://img.shields.io/static/v1?label=%7C&message=REPO&color=f&style=plastic&logo=github&logo-color=white)"/>
-</a>
-<a href="https://waveatrahul.netlify.app/" target="_blank">
-<img src="[https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white](https://img.shields.io/static/v1?label=%7C&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white)"/>
-</a>
+  <a href="http://foodtrackr.me/BadiBlog/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=Website&message=Ecuabus&color=0db7ed&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+  </a>
+
+  <a href="https://github.com/badilleins/EcuabusApp" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=GitHub&message=Repo&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo Badge"/>
+  </a>
 </p>
-<p><strong>Javascript, React, Sass & Solidity</strong> - True tables calculator :This page allows you to calculate a true table. This just need one two letters and one logical operator.
+<p><strong>Angular/Ionic, Typescript, SCSS, Javascript & HTML </strong> - This app was created to be useful for bus cooperative owners, office employees, and riders, allowing them to manage routes, drivers, and tickets sold.
 </p>
 </td>
 </tr>
 
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">Batatabit</h3>
+<h3 align="center">NataTrack</h3>
 <br />
 <a target="_blank" href="[https://github.com/badilleins/Batatabit](https://github.com/badilleins/Batatabit)">
 <img src="images/portfolio.jpg" width="100%" alt="Portfolio"/>
 </a>
 <br />
 <p align="center">
-<br>
-<a href="https://github.com/rahulkarda/Portfolio" target="_blank">
-<img src="[https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white](https://img.shields.io/static/v1?label=%7C&message=REPO&color=f&style=plastic&logo=github&logo-color=white)"/>
-</a>
-<a href="[http://rahulkarda.netlify.app](http://rahulkarda.netlify.app/)" target="_blank">
-<img src="[https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white](https://img.shields.io/static/v1?label=%7C&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white)"/>
-</a>
+  <a href="http://foodtrackr.me/BadiBlog/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=Website&message=NataTrack&color=0db7ed&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+  </a>
+
+  <a href="https://github.com/badilleins/Batatabit" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=GitHub&message=Repo&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo Badge"/>
+  </a>
 </p>
-<p><strong>HTML5, CSS3, & Javascript</strong> - Batatabit: This is a fictituous app for a enterprise that offers services related to coins like bitcoin.
-.</p>
+<p><strong>Kotlin</strong> - This mobile app is designed for swimmers who want to track and improve their workouts with recommendations, alerts, and statistical graphs.<p>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">The Album</h3>
+<h3 align="center">Trevis Store App</h3>
 <br />
 <a target="_blank" href="https://github.com/badilleins/Album">
 <img src="images/nasaapod.jpg" width="100%" alt="NASA Astronomy Picture of the Day"/>
 </a>
 <br />
 <p align="center">
-<br>
-<a href="https://github.com/rahulkarda/NASA-APOD" target="_blank">
-<img src="[https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white](https://img.shields.io/static/v1?label=%7C&message=REPO&color=f&style=plastic&logo=github&logo-color=white)"/>
-</a>
-<a href="[https://apodbyrahul.netlify.app](https://apodbyrahul.netlify.app/)" target="_blank">
-<img src="[https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white](https://img.shields.io/static/v1?label=%7C&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white)"/>
-</a>
+  <a href="http://foodtrackr.me/BadiBlog/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=Website&message=Trevis-Store-App&color=0db7ed&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+  </a>
+
+  <a href="https://github.com/badilleins/TrevisStoreApp" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=GitHub&message=Repo&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo Badge"/>
+  </a>
 </p>
-<p><strong>HTML5, CSS3, Javascript & APIs</strong> - This album is thinking to put your best videos. Here I practiced a lot of CSS and HTML. I loved the beautiful result,above all, I liked my forms to sing-in and to register. 
+<p><strong>Kotlin</strong> - I created this app to help a local business automate the sales process. Among other things, it allows you to log in, check out a product, sell it, and view daily, monthly, and annual sales statistics. Administrators can also add new products, edit them, and delete those they don't find useful. Finally, I added a module so owners can check their earnings after the sale.
 </p>
 </td>
 </tr>
 
+
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">CTT</h3>
+<h3 align="center">The Haircut</h3>
 <br />
-<a target="_blank" href="[https://github.com/badilleins/CTT](https://github.com/badilleins/CTT)">
-<img src="images/webpostman.jpg" width="100%" alt="Web Postman"/>
-</a>
-<br />
-<p align="center">
-<br>
-<a href="https://github.com/rahulkarda/Web-Postman" target="_blank">
-<img src="[https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white](https://img.shields.io/static/v1?label=%7C&message=REPO&color=f&style=plastic&logo=github&logo-color=white)"/>
-</a>
-<a href="[http://webpostman.netlify.app](http://webpostman.netlify.app/)" target="_blank">
-<img src="[https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white](https://img.shields.io/static/v1?label=%7C&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white)"/>
-</a>
-</p>
-<p><strong>HTML5, CSS3, Javascript & PrismJs</strong> - This page allows to the CTT(that is a University group) to offer their courses.  
-</p>
-</td>
-<td width="50%" valign="top">
-<h3 align="center">Trevis</h3>
-<br />
-<a target="_blank" href="https://github.com/badilleins/trevis">
-<img src="images/iptracker.jpg" width="100%" alt="IP Address Tracker"/>
+<a target="_blank" href="[https://github.com/badilleins/Batatabit](https://github.com/badilleins/Batatabit)">
+<img src="images/portfolio.jpg" width="100%" alt="Portfolio"/>
 </a>
 <br />
 <p align="center">
-<br>
-<a href="https://github.com/rahulkarda/IP-Address-Tracker" target="_blank">
-<img src="[https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white](https://img.shields.io/static/v1?label=%7C&message=REPO&color=f&style=plastic&logo=github&logo-color=white)"/>
-</a>
-<a href="[https://trackmyip.netlify.app](https://trackmyip.netlify.app/)" target="_blank">
-<img src="[https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white](https://img.shields.io/static/v1?label=%7C&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white)"/>
-</a>
+  <a href="http://foodtrackr.me/BadiBlog/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=Website&message=The haircut&color=0db7ed&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+  </a>
+
+  <a href="https://github.com/badilleins/Batatabit" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=GitHub&message=Repo&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo Badge"/>
+  </a>
 </p>
-<p><strong>HTML5, CSS3, Javascript & APIs</strong> - I made this page for my mom, this page let you to calculate the price of a product.
+<p><strong>Angular/Ionic, TypeScript, JavaScript, SCSS & HTML</strong> - This team-developed app was developed for barbershops. Here, the owner can monitor, add, edit, and delete barbers and branches. They can also add cuts, products to sell, schedule appointments, and more. In addition, barbers monitor appointments through a notification system. To complete the system, customers can view products, cuts, and a calendar to schedule appointments based on the barber's availability.
 .</p>
 </td>
+<td width="50%" valign="top">
+<h3 align="center">Frontend Supermercado</h3>
+<br />
+<a target="_blank" href="https://github.com/badilleins/Album">
+<img src="images/nasaapod.jpg" width="100%" alt="NASA Astronomy Picture of the Day"/>
+</a>
+<br />
+<p align="center">
+  <a href="http://foodtrackr.me/BadiBlog/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=Website&message=Frontend-Supermercado&color=0db7ed&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+  </a>
+
+  <a href="https://github.com/badilleins/FrontendSupermercadoGenetico" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=GitHub&message=Repo&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo Badge"/>
+  </a>
+</p>
+<p><strong>ReactJS, JavaScript, CSS & HTML</strong> - This is the part of the application that allows you to control the CRUD of a supermarket's categories and products, thus improving their profits. The user can add and select products and enter the necessary information into the genetic algorithm, which optimizes the number of products added to a shelf to increase the supermarket's profits.
+</p>
+</td>
 </tr>
+
+
 </table>
 
 
