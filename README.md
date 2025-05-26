@@ -61,7 +61,8 @@ ___
 <table bordercolor="#66b2b2">
 
 <tr>
-  <td width="50%" valign="top" align="center">
+  <td width="50%" valign="top" align
+="center">
     <h3>Badiblog</h3>
     <table>
       <tr>
@@ -92,108 +93,148 @@ ___
   </td>
 
 </td>
-<td width="50%" valign="top">
-<h3 align="center">Ecuabus  App</h3>
-<br />
-<a target="_blank" href="https://github.com/badilleins/Calculadora-Tablas-de-verdad">
-<img src="images/waveportal.jpg" width="100%"  alt="Wave Portal"/>
-</a>
-<br />
-
-<p align="center">
-  <a href="http://foodtrackr.me/BadiBlog/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=Website&message=Ecuabus&color=0db7ed&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
-  </a>
-
-  <a href="https://github.com/badilleins/EcuabusApp" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=GitHub&message=Repo&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo Badge"/>
-  </a>
-</p>
-<p><strong>Angular/Ionic, Typescript, SCSS, Javascript & HTML </strong> - This app was created to be useful for bus cooperative owners, office employees, and riders, allowing them to manage routes, drivers, and tickets sold.
-</p>
+<td width="50%" valign="top" align="center">
+  <h3>Ecuabus App</h3>
+  <table>
+    <tr>
+      <td>
+        <img src="images/waveportal.jpg" width="300"/>
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30" height="30"/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="30" height="30"/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30"/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>
+      </td>
+    </tr>
+  </table>
+  <div>
+    <a href="http://foodtrackr.me/BadiBlog/" target="_blank">
+      <img align="middle"  src="https://img.shields.io/static/v1?label=Website&message=Ecuabus&color=0db7ed&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+    </a>
+    <a href="https://github.com/badilleins/EcuabusApp" target="_blank">
+      <img align="middle"  src="https://img.shields.io/static/v1?label=GitHub&message=Repo&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo Badge"/>
+    </a>
+  </div>
+  <br/>
+  <p align="center">
+    <strong>Angular/Ionic, Typescript, SCSS, Javascript & HTML</strong> - This app was created to be useful for bus cooperative owners, office employees, and riders, allowing them to manage routes, drivers, and tickets sold.
+  </p>
+  <br/>
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
-<h3 align="center">NataTrack</h3>
-<br />
-<a target="_blank" href="[https://github.com/badilleins/Batatabit](https://github.com/badilleins/Batatabit)">
-<img src="images/portfolio.jpg" width="100%" alt="Portfolio"/>
-</a>
-<br />
-<p align="center">
-  <a href="http://foodtrackr.me/BadiBlog/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=Website&message=NataTrack&color=0db7ed&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
-  </a>
-
-  <a href="https://github.com/badilleins/Batatabit" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=GitHub&message=Repo&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo Badge"/>
-  </a>
-</p>
-<p><strong>Kotlin</strong> - This mobile app is designed for swimmers who want to track and improve their workouts with recommendations, alerts, and statistical graphs.<p>
+<td width="50%" valign="top" align="center">
+  <h3>NataTrack</h3>
+  <table>
+    <tr>
+      <td>
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXU5ejRnc3ZzMm1ncWJlZHNhMXpoMWVhMjBvYnN6YmU5cGx2b3QzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y8rlUtFck0dow5DFRF/giphy.gif" width="300"/>
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="30" height="30"/>
+      </td>
+    </tr>
+  </table>
+  <div>
+    <a href="https://yo utu.be/xBjfY5Xqwyg" target="_blank">
+      <img align="middle"  src="https://img.shields.io/static/v1?label=Website&message=NataTrack&color=0db7ed&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+    </a>
+    <a href="https://github.com/badilleins/NataTrack.git" target="_blank">
+      <img align="middle" src="https://img.shields.io/static/v1?label=GitHub&message=Repo&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo Badge"/>
+    </a>
+  </div>
+  <br/>
+  <p align="center">
+    <strong>Kotlin</strong> - This mobile app is designed for swimmers who want to track and improve their workouts with recommendations, alerts, and statistical graphs.
+  </p>
+  <br/>
 </td>
-<td width="50%" valign="top">
-<h3 align="center">Trevis Store App</h3>
-<br />
-<a target="_blank" href="https://github.com/badilleins/Album">
-<img src="images/nasaapod.jpg" width="100%" alt="NASA Astronomy Picture of the Day"/>
-</a>
-<br />
-<p align="center">
-  <a href="http://foodtrackr.me/BadiBlog/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=Website&message=Trevis-Store-App&color=0db7ed&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
-  </a>
 
-  <a href="https://github.com/badilleins/TrevisStoreApp" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=GitHub&message=Repo&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo Badge"/>
-  </a>
-</p>
-<p><strong>Kotlin</strong> - I created this app to help a local business automate the sales process. Among other things, it allows you to log in, check out a product, sell it, and view daily, monthly, and annual sales statistics. Administrators can also add new products, edit them, and delete those they don't find useful. Finally, I added a module so owners can check their earnings after the sale.
-</p>
+<td width="50%" valign="top" align="center">
+  <h3>Trevis Store App</h3>
+  <table>
+    <tr>
+      <td>
+        <img src="images/nasaapod.jpg" width="300"/>
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="30" height="30"/>
+      </td>
+    </tr>
+  </table>
+  <div>
+    <a href="http://foodtrackr.me/BadiBlog/" target="_blank">
+      <img  align="middle" src="https://img.shields.io/static/v1?label=Website&message=Trevis-Store-App&color=0db7ed&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+    </a>
+    <a href="https://github.com/badilleins/TrevisStoreApp" target="_blank">
+      <img  align="middle" src="https://img.shields.io/static/v1?label=GitHub&message=Repo&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo Badge"/>
+    </a>
+  </div>
+  <br/>
+  <p align="center">
+    <strong>Kotlin</strong> - I created this app to help a local business automate the sales process. It allows logging in, selling, viewing statistics, and managing products and earnings.
+  </p>
+  <br/>
 </td>
+
 </tr>
 
 
 <tr>
-<td width="50%" valign="top">
-<h3 align="center">The Haircut</h3>
-<br />
-<a target="_blank" href="[https://github.com/badilleins/Batatabit](https://github.com/badilleins/Batatabit)">
-<img src="images/portfolio.jpg" width="100%" alt="Portfolio"/>
-</a>
-<br />
-<p align="center">
-  <a href="http://foodtrackr.me/BadiBlog/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=Website&message=The haircut&color=0db7ed&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
-  </a>
-
-  <a href="https://github.com/badilleins/Batatabit" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=GitHub&message=Repo&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo Badge"/>
-  </a>
-</p>
-<p><strong>Angular/Ionic, TypeScript, JavaScript, SCSS & HTML</strong> - This team-developed app was developed for barbershops. Here, the owner can monitor, add, edit, and delete barbers and branches. They can also add cuts, products to sell, schedule appointments, and more. In addition, barbers monitor appointments through a notification system. To complete the system, customers can view products, cuts, and a calendar to schedule appointments based on the barber's availability.
-.</p>
+<td width="50%" valign="top" align="center">
+  <h3>The Haircut</h3>
+  <table>
+    <tr>
+      <td>
+        <img src="images/portfolio.jpg" width="300"/>
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30" height="30"/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="30" height="30"/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30"/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>
+      </td>
+    </tr>
+  </table>
+  <div>
+    <a href="http://foodtrackr.me/BadiBlog/" target="_blank">
+      <img  align="middle" src="https://img.shields.io/static/v1?label=Website&message=The-Haircut&color=0db7ed&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+    </a>
+    <a href="https://github.com/badilleins/Batatabit" target="_blank">
+      <img  align="middle" src="https://img.shields.io/static/v1?label=GitHub&message=Repo&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo Badge"/>
+    </a>
+  </div>
+  <br/>
+  <p align="center">
+    <strong>Angular/Ionic, TypeScript, JavaScript, SCSS & HTML</strong> - This app for barbershops lets owners manage barbers, branches, products, and schedules. It also includes customer booking with real-time notifications.
+  </p>
+  <br/>
 </td>
-<td width="50%" valign="top">
-<h3 align="center">Frontend Supermercado</h3>
-<br />
-<a target="_blank" href="https://github.com/badilleins/Album">
-<img src="images/nasaapod.jpg" width="100%" alt="NASA Astronomy Picture of the Day"/>
-</a>
-<br />
-<p align="center">
-  <a href="http://foodtrackr.me/BadiBlog/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=Website&message=Frontend-Supermercado&color=0db7ed&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
-  </a>
 
-  <a href="https://github.com/badilleins/FrontendSupermercadoGenetico" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=GitHub&message=Repo&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo Badge"/>
+<td width="50%" valign="top">
+  <h3 align="center">Frontend Supermarket</h3>
+  <br />
+  <a target="_blank" href="https://github.com/badilleins/FrontendSupermercadoGenetico">
+    <img src="images/nasaapod.jpg" width="100%" alt="Frontend Supermarket Screenshot"/>
   </a>
-</p>
-<p><strong>ReactJS, JavaScript, CSS & HTML</strong> - This is the part of the application that allows you to control the CRUD of a supermarket's categories and products, thus improving their profits. The user can add and select products and enter the necessary information into the genetic algorithm, which optimizes the number of products added to a shelf to increase the supermarket's profits.
-</p>
+  <br />
+  <p align="center">
+    <a href="http://foodtrackr.me/BadiBlog/" target="_blank">
+      <img  align="middle" src="https://img.shields.io/static/v1?label=Website&message=Frontend-Supermarket&color=0db7ed&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+    </a>
+    <a href="https://github.com/badilleins/FrontendSupermercadoGenetico" target="_blank">
+      <img  align="middle" src="https://img.shields.io/static/v1?label=GitHub&message=Repo&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo Badge"/>
+    </a>
+  </p>
+  <p>
+    <strong>ReactJS, JavaScript, CSS & HTML</strong> – This frontend web application enables CRUD operations for managing supermarket products and categories. Users can input product data and configure parameters for a genetic algorithm, which optimizes shelf space to maximize profitability.
+  </p>
 </td>
+
 </tr>
 
 
