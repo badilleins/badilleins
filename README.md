@@ -98,7 +98,7 @@ ___
   <table>
     <tr>
       <td>
-        <img src="images/waveportal.jpg" width="300"/>
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZxYzBvM3dhc2JoaWcwNjZndXc2anBldGlrNDllczk4Z2V3MDdvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I3xUZzX4u2k1cn7ajm/giphy.gif" width="300"/>
       </td>
       <td align="center" valign="middle">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30" height="30"/><br/>
@@ -119,7 +119,7 @@ ___
   </div>
   <br/>
   <p align="center">
-    <strong>Angular/Ionic, Typescript, SCSS, Javascript & HTML</strong> - This app was created to be useful for bus cooperative owners, office employees, and riders, allowing them to manage routes, drivers, and tickets sold.
+  - This app was created to be useful for bus cooperative owners, office employees, and riders, allowing them to manage routes, drivers, and tickets sold.
   </p>
   <br/>
 </td>
@@ -148,7 +148,7 @@ ___
   </div>
   <br/>
   <p align="center">
-    <strong>Kotlin</strong> - This mobile app is designed for swimmers who want to track and improve their workouts with recommendations, alerts, and statistical graphs.
+    This mobile app is designed for swimmers who want to track and improve their workouts with recommendations, alerts, and statistical graphs.
   </p>
   <br/>
 </td>
@@ -181,62 +181,6 @@ ___
 </td>
 
 </tr>
-
-
-<tr>
-<td width="50%" valign="top" align="center">
-  <h3>The Haircut</h3>
-  <table>
-    <tr>
-      <td>
-        <img src="images/portfolio.jpg" width="300"/>
-      </td>
-      <td align="center" valign="middle">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30" height="30"/><br/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="30" height="30"/><br/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30"/><br/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/><br/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>
-      </td>
-    </tr>
-  </table>
-  <div>
-    <a href="http://foodtrackr.me/BadiBlog/" target="_blank">
-      <img  align="middle" src="https://img.shields.io/static/v1?label=Website&message=The-Haircut&color=0db7ed&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
-    </a>
-    <a href="https://github.com/badilleins/Batatabit" target="_blank">
-      <img  align="middle" src="https://img.shields.io/static/v1?label=GitHub&message=Repo&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo Badge"/>
-    </a>
-  </div>
-  <br/>
-  <p align="center">
-    <strong>Angular/Ionic, TypeScript, JavaScript, SCSS & HTML</strong> - This app for barbershops lets owners manage barbers, branches, products, and schedules. It also includes customer booking with real-time notifications.
-  </p>
-  <br/>
-</td>
-
-<td width="50%" valign="top">
-  <h3 align="center">Frontend Supermarket</h3>
-  <br />
-  <a target="_blank" href="https://github.com/badilleins/FrontendSupermercadoGenetico">
-    <img src="images/nasaapod.jpg" width="100%" alt="Frontend Supermarket Screenshot"/>
-  </a>
-  <br />
-  <p align="center">
-    <a href="http://foodtrackr.me/BadiBlog/" target="_blank">
-      <img  align="middle" src="https://img.shields.io/static/v1?label=Website&message=Frontend-Supermarket&color=0db7ed&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
-    </a>
-    <a href="https://github.com/badilleins/FrontendSupermercadoGenetico" target="_blank">
-      <img  align="middle" src="https://img.shields.io/static/v1?label=GitHub&message=Repo&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo Badge"/>
-    </a>
-  </p>
-  <p>
-    <strong>ReactJS, JavaScript, CSS & HTML</strong> – This frontend web application enables CRUD operations for managing supermarket products and categories. Users can input product data and configure parameters for a genetic algorithm, which optimizes shelf space to maximize profitability.
-  </p>
-</td>
-
-</tr>
-
 
 </table>
 
