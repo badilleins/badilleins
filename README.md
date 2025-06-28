@@ -22,40 +22,6 @@
 - My goal is to create technological innovation to solve problems and build the future of our dreams.
 
   
-___
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> To know more about me
-<table align="center">
-  <tr>
-    <td align="center">
-      <p>Connect with me on</p>
-      <a href="https://www.linkedin.com/in/stalinbadillo/" target="blank">
-        <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
-      </a>
-    </td>
-    <td align="center">
-      <p>See a piece of my life on</p>
-      <a href="https://twitter.com/badilleins" target="blank">
-        <img src="https://static.vecteezy.com/system/resources/previews/034/716/139/non_2x/x-new-twitter-logo-free-png.png" alt="X" height="50" width="50" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <p>Visit my portfolio on</p>
-      <a href="https://badilleins.github.io/" target="blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/2572/2572742.png" alt="portfolio" height="50" width="50" />
-      </a>
-    </td>
-    <td align="center">
-      <p>Check my learnings on</p>
-      <a href="https://platzi.com/p/Badilleins/" target="blank">
-        <img src="https://static.platzi.com/media/blog/unnamed-8089fc33-6322-4bd3-85de-1da032257d4b.png" alt="platzi"
- height="50" width="50" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 # Projects ⚙️
 
 <table bordercolor="#66b2b2">
@@ -247,6 +213,41 @@ ___
 
 
 
+___
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> To know more about me
+<table align="center">
+  <tr>
+    <td align="center">
+      <p>Connect with me on</p>
+      <a href="https://www.linkedin.com/in/stalinbadillo/" target="blank">
+        <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+      </a>
+    </td>
+    <td align="center">
+      <p>See a piece of my life on</p>
+      <a href="https://twitter.com/badilleins" target="blank">
+        <img src="https://static.vecteezy.com/system/resources/previews/034/716/139/non_2x/x-new-twitter-logo-free-png.png" alt="X" height="50" width="50" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p>Visit my portfolio on</p>
+      <a href="https://badilleins.github.io/" target="blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/2572/2572742.png" alt="portfolio" height="50" width="50" />
+      </a>
+    </td>
+    <td align="center">
+      <p>Check my learnings on</p>
+      <a href="https://platzi.com/p/Badilleins/" target="blank">
+        <img src="https://static.platzi.com/media/blog/unnamed-8089fc33-6322-4bd3-85de-1da032257d4b.png" alt="platzi"
+ height="50" width="50" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badilleins&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
@@ -255,5 +256,6 @@ ___
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=badilleins&theme=algolia&background=0d1117&hide_border=true" />
 </div>
+
 
 > Enjoy coding with me ❤️
