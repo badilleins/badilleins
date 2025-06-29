@@ -85,7 +85,7 @@
   </div>
   <br/>
   <p align="center">
-  - This app was created to be useful for bus cooperative owners, office employees, and riders, allowing them to manage routes, drivers, and tickets sold.
+  This app was created to be useful for bus cooperative owners, office employees, and riders, allowing them to manage routes, drivers, and tickets sold.
   </p>
   <br/>
 </td>
@@ -105,7 +105,7 @@
     </tr>
   </table>
   <div>
-    <a href="https://yo utu.be/xBjfY5Xqwyg" target="_blank">
+    <a href="https://youtu.be/xBjfY5Xqwyg" target="_blank">
       <img align="middle"  src="https://img.shields.io/static/v1?label=Website&message=NataTrack&color=0db7ed&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
     </a>
     <a href="https://github.com/badilleins/NataTrack.git" target="_blank">
@@ -124,7 +124,7 @@
   <table>
     <tr>
       <td>
-        <img src="images/nasaapod.jpg" width="300"/>
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHE5dDF1djJvdm56NXplM3ZqNWc3ZHU3bzhmYnQyc3RidnBnZXkyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lec7Wu5DMWEiTAfiWo/giphy.gif" width="300"/>
       </td>
       <td align="center" valign="middle">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="30" height="30"/>
@@ -141,7 +141,7 @@
   </div>
   <br/>
   <p align="center">
-    <strong>Kotlin</strong> - I created this app to help a local business automate the sales process. It allows logging in, selling, viewing statistics, and managing products and earnings.
+    I created this app to help a local business automate the sales process. It allows logging in, selling, viewing statistics, and managing products and earnings.
   </p>
   <br/>
 </td>
