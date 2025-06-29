@@ -97,7 +97,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXU5ejRnc3ZzMm1ncWJlZHNhMXpoMWVhMjBvYnN6YmU5cGx2b3QzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y8rlUtFck0dow5DFRF/giphy.gif" width="300"/>
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZveW5hZ2w3dDAxODE0bXczbHpyNm5pOTRoMHQ4cW1sc2VjZ3p5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fBLh2kxp9W2T3FfWFE/giphy.gif" width="300"/>
       </td>
       <td align="center" valign="middle">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="30" height="30"/>
