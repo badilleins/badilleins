@@ -37,7 +37,8 @@
         </td>
         <td align="center" valign="middle">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/><br/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/><br/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>
+<br/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/>
         </td>
       </tr>
@@ -233,7 +234,7 @@ ___
   <tr>
     <td align="center">
       <p>Visit my portfolio on</p>
-      <a href="https://badilleins.github.io/" target="blank">
+      <a href="https://portafolio-web-swart-zeta.vercel.app/" target="blank">
         <img src="https://cdn-icons-png.flaticon.com/512/2572/2572742.png" alt="portfolio" height="50" width="50" />
       </a>
     </td>
